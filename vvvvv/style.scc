@@ -1,0 +1,53 @@
+body{
+    background-color:lightgray
+}
+
+
+.divi_2{ 
+background-color:white;
+margin-left:500px
+margin-top:150px
+width:320px
+height:500px
+border-radius:20px
+}
+
+.front{
+padding:20px
+}
+
+img{
+    border-radius:20px
+}
+
+
+.front{
+margin-left:50px
+font-family:outfit,sans-serif
+font-size:20px
+font-weight:7oo
+}
+
+.front{
+margin-top:-20px
+font-family:"outfit",sans-serif;
+font-size:20px
+font-weight:700
+}
+.muqi{  
+font-family:"outfit",sans-serif;
+font-weight:200
+}
+     .mkrtali{ margin-left:35px
+               margin-top:-20
+              font-family:"outfit",sans-serif;
+              font-weight:200
+     }
+   
+
+.mkrtali{   
+          margin-left:110px
+        margin-top:-20px
+          font-family:"outfit",sans-serif:
+         font-weight:200
+}
